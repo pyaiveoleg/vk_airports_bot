@@ -1,0 +1,17 @@
+{
+  "db": {
+    "db_name": "airport",
+    "user": "postgres",
+    "password": "Oleg2001",
+    "host": "localhost",
+    "tables": {
+      "schedule": "schedule",
+      "passengers": "schedule",
+      "available_tickets": "schedule",
+      "archive": "schedule"
+    }
+  },
+  "vk_bot": {
+    "token": "b62bf037e2dd4a22310c716f3291617521abc70a5f3da45b426b3d3ac662b1231e76956fd904ecb97127a"
+  }
+}
